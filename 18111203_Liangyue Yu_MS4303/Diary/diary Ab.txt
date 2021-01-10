@@ -1,0 +1,55 @@
+The last basic variables column
+mbcol =
+
+         21.00
+
+The columns of negative in 11 rows
+4       8       17       18       
+Calculate the ratios of the cost(Row 1) in each of these columns with negative number in that columns in row11
+bcolratio =
+
+         -0.84         -4.03         -0.66        -87.00
+
+The best col position
+posicolmax =
+
+         17.00
+
+The mmr for 21 
+
+Xb =
+
+         52.40
+
+Row 12 and Col 21 selected.
+Row 11 and Col 17 selected.
+
+ans =
+
+        533.41
+        156.78
+        103.99
+         20.17
+          4.64
+         13.65
+         35.22
+        129.71
+        266.23
+         23.14
+        113.00
+         52.40
+
+
+ans =
+
+        533.41
+        156.78
+        103.99
+         20.17
+          4.64
+         13.65
+         35.22
+        129.71
+        266.23
+         23.14
+        113.00

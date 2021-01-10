@@ -1,0 +1,75 @@
+The first nonbasic variables col.
+minnonbasicAc =
+
+          2.00
+
+The positive rows
+posrow0 =
+
+          2.00
+          4.00
+          6.00
+          7.00
+          8.00
+          9.00
+         10.00
+         11.00
+
+The raw the min raw ratio
+11
+Row 11 and Col 2 selected.
+The columns of negative in 11 rows
+
+ccolneg =
+
+          4.00          8.00         17.00         18.00
+
+Calculate the ratios of the cost(Row 1) in each of these columns with negative number in that columns in row 11
+
+ccolratio =
+
+        -13.46        -28.40        -12.62       -416.50
+
+The best col
+positioncolmax =
+
+         17.00
+
+
+Xc =
+
+         22.91
+
+Row 12 and Col 2 selected.
+Row 11 and Col 17 selected.
+Row 11 and Col 17 selected.
+
+ans =
+
+        347.55
+        138.34
+        182.88
+         13.56
+         21.47
+          2.12
+         23.61
+         28.05
+        219.35
+         24.29
+         22.91
+         20.62
+
+
+ans =
+
+        347.55
+        138.34
+        182.88
+         13.56
+         21.47
+          2.12
+         23.61
+         28.05
+        219.35
+         24.29
+         20.62
